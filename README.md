@@ -1,4 +1,4 @@
-# Insertion Sort Projesi (www.patika.dev)
+# Sıralama Algoritmaları (www.patika.dev)
 **[22,27,16,2,18,6]**
 - Yukarı verilen dizinin insertion sort türüne göre aşamalarını yazınız.
 1. [2,27,16,22,18,6]

@@ -1,1 +1,1 @@
-#Paşlangıç Seviye Frontend Patikası
+#Başlangıç Seviye Frontend Patikası
